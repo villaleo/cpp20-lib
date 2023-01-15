@@ -1,0 +1,7 @@
+# ninja log v5
+529	580	1673813707145187556	vec_test	f6f01dd790d1c7af
+4	529	1673813707091663486	CMakeFiles/vec_test.dir/vec/test/vec_test.cpp.o	b0507bee17730034
+3	315	1673812790268839641	CMakeFiles/vec_test.dir/test/vec_test.cpp.o	8b237da38f0b5331
+0	50	1673813782723061778	build.ninja	1d14ad5c1821f431
+3	283	1673813786885794127	CMakeFiles/vec_test.dir/vec/test/vec_test.cpp.o	b0507bee17730034
+283	318	1673813786922802781	vec_test	f6f01dd790d1c7af
